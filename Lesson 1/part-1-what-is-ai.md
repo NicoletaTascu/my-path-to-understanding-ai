@@ -171,4 +171,4 @@ To answer that, I first need to understand three concepts:
 
 ➡️ **Next: [Part 2 — Learning From Data](./part-2-learning-from-data.md)**
 
-⬅️ **[Back to Lesson 1](./README.md)**
+⬅️ **[Back to Lesson 1](../README.md)**
