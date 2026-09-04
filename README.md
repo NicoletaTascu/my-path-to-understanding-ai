@@ -205,3 +205,24 @@ That's part of the project.
 > 🚫🖊️💻 **No pens on the laptop.**
 
 Some lessons only need to be learned once. 😄
+
+## License
+
+This repository uses separate licenses for code and educational content.
+
+### Code
+
+Source code and programming examples in this repository are licensed
+under the [MIT License](./LICENSE-CODE).
+
+### Educational Content
+
+Lessons, written explanations, documentation, diagrams, and other
+educational content are licensed under the [Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License (CC
+BY-NC-SA 4.0)](./LICENSE-CONTENT).
+
+Code snippets embedded inside educational materials are covered by the
+MIT License unless explicitly stated otherwise.
+
+© 2026 Nicoleta Tascu-Stavre
